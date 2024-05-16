@@ -1,16 +1,59 @@
 # AI-Project-1
 
+Our project aim is to answer if adult children are not doing as well as earlier generations.  Using sourced data and adjusting for inflation where necessary.
+
+## Table of Contents
+
+- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Install Python](#install-python)
+  - [Install Jupyter Notebook](#install-jupyter-notebook)
+  - [Install Libraries](#install-libraries)
+- [Usage](#usage)
+  - [Running Jupyter Notebook](#running-jupyter-notebook)
+  - [Using Matplotlib](#using-matplotlib)
+  - [Using SciPy](#using-scipy)
+  - [Using NumPy](#using-numpy)
+
 ## Installation
+
+### Prerequisites
+
+- A computer running Windows, macOS, or Linux
+- Administrator privileges on the computer
+
+### Install Python
+
+1. Download the latest version of Python from the official [Python website](https://www.python.org/downloads/).
+2. Run the installer and follow the instructions. Make sure to check the option to add Python to your PATH.
+
+To verify the installation, open a terminal or command prompt and run:
+
+python --version
+
+Then Clone the repository.
+
+    * Open a Terminal window and use `cd` commands to navigate to the directory where you would like to save your repository.
+
+    * Use the `git clone` command and the link you copied previously to clone the repository in the location you selected.
+
+    * Run all .ipynb files, except generation_prophet_compare_final.ipynb, using jupyter notebook, an anaconda dev setup may be preferable
+
+    * Run generation_prophet_compare_final.ipynb in a google colab workspace.  Upload the dfa-generation-levels-detail-cleanedup.csv found in the resources-jc folder when prompted.
 
 ## Sources
 
-* [combining multiple data frames](https://stackoverflow.com/questions/53877687/how-can-i-concat-multiple-dataframes-in-python)
-* [Federal Reserve Data](https://www.federalreserve.gov/releases/z1/dataviz/dfa/compare/chart/#quarter:137;series:Assets;demographic:generation;population:all;units:levels)
-* [charting tools](https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/)
-* [student loan stats](https://educationdata.org/student-loan-debt-statistics)
-* [stacked to full bar chart](https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/)
-* [secondary axis](https://stackoverflow.com/questions/46063379/pandas-secondary-axis)
-* [Historical Median Income](https://fred.stlouisfed.org/series/MEHOINUSA672N)
-* [Historical Median rent cost](https://ipropertymanagement.com/research/average-rent-by-year)
-* [Percentage format](https://saturncloud.io/blog/how-to-format-certain-floating-dataframe-columns-into-percentage-in-pandas/)
-* [Average Net Worth per Generation](https://www.self.inc/info/generational-wealth-gap/)
+- [combining multiple data frames](https://stackoverflow.com/questions/53877687/how-can-i-concat-multiple-dataframes-in-python)
+- [Federal Reserve Data](https://www.federalreserve.gov/releases/z1/dataviz/dfa/compare/chart/#quarter:137;series:Assets;demographic:generation;population:all;units:levels)
+- [charting tools](https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/)
+- [student loan stats](https://educationdata.org/student-loan-debt-statistics)
+- [stacked to full bar chart](https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/)
+- [secondary axis](https://stackoverflow.com/questions/46063379/pandas-secondary-axis)
+- [Historical Median Income](https://fred.stlouisfed.org/series/MEHOINUSA672N)
+- [Historical Median rent cost](https://ipropertymanagement.com/research/average-rent-by-year)
+- [Percentage format](https://saturncloud.io/blog/how-to-format-certain-floating-dataframe-columns-into-percentage-in-pandas/)
+- [Average Net Worth per Generation](https://www.self.inc/info/generational-wealth-gap/)
+
+## Findings
+
+To be completed
