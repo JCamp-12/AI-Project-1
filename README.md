@@ -8,9 +8,10 @@ Our project aim is to answer if adult children are not doing as well as earlier 
   - [Prerequisites](#prerequisites)
   - [Install Python](#install-python)
   - [Install Jupyter Notebook](#install-jupyter-notebook)
+  - [Install Libraries](#install-libraries)
 - [Usage](#usage)
   - [Running Jupyter Notebook](#running-jupyter-notebook)
-  - [Install Matplotlib, SciPy, and NumPy](#install-matplotlib-scipy-and-numpy)
+  
 
 ## Installation
 
@@ -38,7 +39,7 @@ python --version
 
 pip install notebook
 
-## Install Matplotlib, SciPy, NumPy
+## Install Libraries
 
 pip install matplotlib scipy numpy
 
