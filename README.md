@@ -8,14 +8,17 @@ Our project aim is to answer if adult children are not doing as well as earlier 
   - [Prerequisites](#prerequisites)
   - [Install Python](#install-python)
   - [Install Jupyter Notebook](#install-jupyter-notebook)
-  - [Install Libraries](#install-libraries)
 - [Usage](#usage)
   - [Running Jupyter Notebook](#running-jupyter-notebook)
-  - [Using Matplotlib](#using-matplotlib)
-  - [Using SciPy](#using-scipy)
-  - [Using NumPy](#using-numpy)
+  - [Install Matplotlib, SciPy, and NumPy](#install-matplotlib-scipy-and-numpy)
 
 ## Installation
+
+- [Python Documentation] (<https://docs.python.org/>)
+- [Jupyter Notebook Documentation] (<https://jupyter-notebook.readthedocs.io/>)
+- [Matplotlib Documentation] (<https://matplotlib.org/stable/index.html>)
+- [SciPy and NumPy Documentation] (<https://docs.scipy.org/doc/>)
+- [Google Colab] (<https://colab.research.google.com>)
 
 ### Prerequisites
 
@@ -31,7 +34,15 @@ To verify the installation, open a terminal or command prompt and run:
 
 python --version
 
-Then Clone the repository.
+## Install Jupyter Notebook
+
+pip install notebook
+
+## Install Matplotlib, SciPy, NumPy
+
+pip install matplotlib scipy numpy
+
+## Clone the repository
 
 - Open a Terminal window and use `cd` commands to navigate to the directory where you would like to save your repository.
 
@@ -40,6 +51,10 @@ Then Clone the repository.
 - Run all .ipynb files, except generation_prophet_compare_final.ipynb, using jupyter notebook, an anaconda dev setup may be preferable
 
 - Run generation_prophet_compare_final.ipynb in a google colab workspace.  Upload the dfa-generation-levels-detail-cleanedup.csv found in the resources-jc folder when prompted.
+
+## Running Jupyter Notebook
+
+jupyter notebook
 
 ## Sources
 
