@@ -33,13 +33,13 @@ python --version
 
 Then Clone the repository.
 
-    * Open a Terminal window and use `cd` commands to navigate to the directory where you would like to save your repository.
+- Open a Terminal window and use `cd` commands to navigate to the directory where you would like to save your repository.
 
-    * Use the `git clone` command and the link you copied previously to clone the repository in the location you selected.
+- Use the `git clone` command and the link you copied previously to clone the repository in the location you selected.
 
-    * Run all .ipynb files, except generation_prophet_compare_final.ipynb, using jupyter notebook, an anaconda dev setup may be preferable
+- Run all .ipynb files, except generation_prophet_compare_final.ipynb, using jupyter notebook, an anaconda dev setup may be preferable
 
-    * Run generation_prophet_compare_final.ipynb in a google colab workspace.  Upload the dfa-generation-levels-detail-cleanedup.csv found in the resources-jc folder when prompted.
+- Run generation_prophet_compare_final.ipynb in a google colab workspace.  Upload the dfa-generation-levels-detail-cleanedup.csv found in the resources-jc folder when prompted.
 
 ## Sources
 
@@ -56,4 +56,10 @@ Then Clone the repository.
 
 ## Findings
 
-To be completed
+- Today's 40-year-olds own 25% less wealth compared to older generations when they were the same age.
+- Baby boomers owned 25% more real estate than Generation X at the same age.
+- Baby boomers are collectively 8 times wealthier than millennials.
+- Millennials are 22.4% behind Generation X in terms of wealth accumulated.
+- According to an analysis of Federal Reserve data, the average baby boomer now has a median net worth of $206,700. However, the average net worth of baby boomers is considerably higher, at a whopping $1.2 million showing how significantly the top earners skew the average higher.
+- The inability of lower earning and younger millennials and likely gen z to save for the american dream, owning their own housing, due to an increasing percent of income going to rent and home prices + major assets like equities will likley make it harder for more and more household formation and ability to acquire their parents level of net wealth.
+- Inheritence and relying on parents for help will likely play into more haves and have nots.
